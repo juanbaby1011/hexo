@@ -1,0 +1,8 @@
+- class_name: 友情鏈接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 思想家
+      link: https://liukay.com
+      avatar: https://liukay.com/img/touxiang.jpeg
+      descr: 快速、簡單且強大的網誌框架
+
