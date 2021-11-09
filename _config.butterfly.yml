@@ -435,7 +435,7 @@ tencent_analytics:
 
 # CNZZ Analytics
 # https://www.umeng.com/
-cnzz_analytics:
+cnzz_analytics: 1280555873
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
@@ -665,7 +665,7 @@ aside:
       text: github
       link: https://github.com/juanbaby1011
   card_announcement:
-    enable: true
+    enable: false
     content: This is my Blog
   card_recent_post:
     enable: true
