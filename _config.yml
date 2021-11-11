@@ -4,7 +4,7 @@
 
 # Site
 title: 羽落
-subtitle: '艺术是宿命的，就是诚实的，所以它是值钱的。'
+subtitle: '你是人间四月天。'
 description: ''
 keywords:
 author: 羽落
@@ -14,7 +14,12 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://yangluoluo.com
-permalink: :year/:month/:day/:title/
+#permalink: :year/:month/:day/:title/
+permalink: posts/:abbrlink.html
+# 自定义格式
+abbrlink:
+  alg: crc32
+  rep: hex
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks

@@ -14,6 +14,8 @@ menu:
   技术||fas fa-list:
     java: /java || fas fa-music
     linux: /linux || fas fa-music
+    mysql: /mysql || fas fa-music
+    redis: /redis || fas fa-music
   分类归档||fas fa-list:  
     归档: /archives/ || fas fa-archive
     标签: /tags/ || fas fa-tags
