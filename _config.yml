@@ -13,9 +13,9 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://yangluoluo.com
-#permalink: :year/:month/:day/:title/
-permalink: posts/:abbrlink.html
+url: https://yangluoluo.com
+permalink: :year/:month/:day/:title/
+#permalink: posts/:abbrlink.html
 # 自定义格式
 abbrlink:
   alg: crc32
